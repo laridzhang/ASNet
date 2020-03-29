@@ -20,7 +20,7 @@ For ShanghaiTech Part A dataset
 If you find the ASNet useful, please cite our paper. Thank you!
 
 ```
-@inproceedings{li2018csrnet,
+@inproceedings{jiang2020attention,
   title={Attention scaling for crowd counting},
   author={Jiang, Xiaoheng and Zhang, Li and Zhang, Tianzhu and Xu, Mingliang and Lv, Pei and Zhou, Bing a},
   booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
