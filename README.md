@@ -1,6 +1,6 @@
 # ASNet
 
-This is the repo for [Attention scaling for crowd counting] in CVPR 2020, which proposed a simple but effective architecture for crowd counting.
+This is the repo for [Attention scaling for crowd counting](http://cvpr2020.thecvf.com/) in CVPR 2020, which proposed a simple but effective architecture for crowd counting.
 
 ## Requirements
 
@@ -13,7 +13,7 @@ PyTorch: 1.3.1
 ## Results
 
 For ShanghaiTech Part A dataset
-Link: (https://pan.baidu.com/s/1jQgBsDy90UfzlLafXgTcXQ) Password: 585s
+[Link](https://pan.baidu.com/s/1jQgBsDy90UfzlLafXgTcXQ) Password: 585s
 
 ## References
 
