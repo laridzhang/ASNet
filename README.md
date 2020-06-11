@@ -1,6 +1,6 @@
 # ASNet
 
-This is the repo for [Attention scaling for crowd counting](http://cvpr2020.thecvf.com/) in CVPR 2020, which proposed a simple but effective architecture for crowd counting.
+This is the repo for [Attention scaling for crowd counting](http://openaccess.thecvf.com/content_CVPR_2020/html/Jiang_Attention_Scaling_for_Crowd_Counting_CVPR_2020_paper.html) in CVPR 2020, which proposed a simple but effective architecture for crowd counting.
 
 ## Requirements
 
