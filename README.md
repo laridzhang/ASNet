@@ -14,7 +14,7 @@ PyTorch: 1.3.1
 
 For ShanghaiTech Part A dataset
 
-[Link](https://pan.baidu.com/s/1jQgBsDy90UfzlLafXgTcXQ), Password: 585s
+Model: [Link](https://pan.baidu.com/s/1jQgBsDy90UfzlLafXgTcXQ), Password: 585s
 
 ## References
 
@@ -25,7 +25,8 @@ If you find the ASNet useful, please cite our paper. Thank you!
   title={Attention scaling for crowd counting},
   author={Jiang, Xiaoheng and Zhang, Li and Zhang, Tianzhu and Xu, Mingliang and Lv, Pei and Zhou, Bing a},
   booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={1--10},
+  pages={4706--4715},
+  month={June},
   year={2020}
 }
 ```
